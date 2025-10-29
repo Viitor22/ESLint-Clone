@@ -1,0 +1,25 @@
+{
+  "name": "eslint-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "eslint-clone": "src/index.js"
+  },
+  "scripts": {
+    "lint": "eslint-clone --file error.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vitorsimplicio",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "engines": {
+    "node": "v22.14.0"
+  },
+  "dependencies": {
+    "astring": "^1.9.0",
+    "chalk": "^5.6.2",
+    "espree": "^9.6.1"
+  }
+}
