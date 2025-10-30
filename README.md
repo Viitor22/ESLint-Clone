@@ -166,6 +166,6 @@ Saída:
 Este repositório é voltado ao aprendizado e experimentação!
 Sinta-se à vontade para fazer um fork, criar novas regras ou aprimorar o CLI.
 
-📩 For any inquiries or suggestions, contact: [your email or GitHub link]
+📩 For any inquiries or suggestions, contact: [ianvibs200@gmail.com]
 
 ---
