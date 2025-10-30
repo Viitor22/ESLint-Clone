@@ -1,4 +1,3 @@
----
 # ESLint Clone 🧠
 
 ## English
@@ -84,8 +83,6 @@ Output:
 This repository is open for learning and experimentation!
 Feel free to fork it, improve the rules, or extend the CLI capabilities.
 
----
-
 ## Português 🇧🇷
 
 ### 📌 Descrição do Projeto
@@ -168,8 +165,6 @@ Saída:
 
 Este repositório é voltado ao aprendizado e experimentação!
 Sinta-se à vontade para fazer um fork, criar novas regras ou aprimorar o CLI.
-
----
 
 📩 For any inquiries or suggestions, contact: [your email or GitHub link]
 
